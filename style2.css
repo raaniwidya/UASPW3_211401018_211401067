@@ -1,0 +1,22 @@
+#why {
+    background-image: url(foto/bgcolor2.jpeg);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    :root {
+        scroll-behavior: smooth;
+        }
+    }
+    
+#aboutus {
+    background-image: url(foto/bgcolor.jpg);
+}
+
+#utama {
+    background-image: url(foto/bgcolor.jpg);
+}
+
+footer {
+    background-color: white;
+}
+
